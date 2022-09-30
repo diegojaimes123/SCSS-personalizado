@@ -8,18 +8,18 @@
 
 REPOSITORIO DE SCSS PERSONALIZADO 
 
-# 🧑‍🎓 ESTUDIANTE
+#  ESTUDIANTE
 
 
 Buenos dias mi nombre es DEIGO ALEXANDER JAIMES RONDEROS, estudiante del Sena en la sede de Centro de Biotecnologia Agropecuario estoy ubicaco en a ficha tecnica 2558346 con el Instructor: JORGE ORLANDO CASTRO NOVA.
 
 
-## 💼 EVIDENCIAS: 
+##  EVIDENCIAS: 
 
 * pagina con diseño scss
 * uso correcto del precompilador 
 
-## 🧑‍💻 diseño y programacion de sofware. 
+##  diseño y programacion de sofware. 
 
 en este repositorio veremos disrintas clses de codigos y variables unos de ellos que veremos son .
 * Html5
