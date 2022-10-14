@@ -17,7 +17,10 @@ Buenos dias mi nombre es DEIGO ALEXANDER JAIMES RONDEROS, estudiante del Sena en
 ##  EVIDENCIAS: 
 
 * pagina con diseño scss
-* uso correcto del precompilador 
+* Se conocio el precompilador y se dio arigen a su uso con su respectiva libreria 
+* carpeta css la cual contiene dos archivos los cuales proviene de el scss compilado 
+* carpeta scss la cual contine al diseño total de la pagina que al compilar crea dos archivos css
+
 
 ##  diseño y programacion de sofware. 
 
