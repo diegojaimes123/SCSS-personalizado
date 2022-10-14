@@ -20,6 +20,8 @@ Buenos dias mi nombre es DEIGO ALEXANDER JAIMES RONDEROS, estudiante del Sena en
 * Se conocio el precompilador y se dio arigen a su uso con su respectiva libreria 
 * carpeta css la cual contiene dos archivos los cuales proviene de el scss compilado 
 * carpeta scss la cual contine al diseño total de la pagina que al compilar crea dos archivos css
+* carpeta img la cual contine imagenes del proyecto 
+* archivo index de html el cual cambia el tamaño de imagen cuendo es responsive 
 
 
 ##  diseño y programacion de sofware. 
